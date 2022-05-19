@@ -1,7 +1,7 @@
 # Official
 - [Github](https://github.com/connext/nxtp-router-docker-compose/tree/amarok)
 - [Docs](https://docs.connext.network/routers/spinning-up)
-- [Discord]()
+- [Discord](https://discord.gg/connext)
 # Routers Track
 
 ## Resource
