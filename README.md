@@ -18,6 +18,7 @@
 - @Nongnicelnwza007#3988 [add liquidity guide(English)](https://medium.com/@nizeimbaboy.2/how-to-add-liquidity-in-connext-f0f6bfedeabc)
 - @Siwat#7738[setup guide(English)](https://medium.com/alphaturing/spinning-up-connext-router-testnet-c6bad558ae94)
 - @rroojrooj#5708 [Another setup guide(Thai)](https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-%E0%B9%84%E0%B8%97%E0%B8%A2-f5405ac3a6dc)
+- @rroojrooj#5708 [Setup guide(Eng)](https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-eng-4ff391b05d94)
 - @Oozman#3801 [setup guide(French)](https://mirror.xyz/0x5214F449553f572F30dE3717CaCA29088A386eEb/BJaHlfi2PoMGN349sIZhim-U1_aa79sIacyZV4ON4As)
 - @sazhiv#2581 [setup guide(Russian)](https://medium.com/@alexzhurba/spinning-up-connext-router-fe3260912f0a)
 
