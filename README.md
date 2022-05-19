@@ -21,7 +21,7 @@
 - @Oozman#3801 [setup guide(French)](https://mirror.xyz/0x5214F449553f572F30dE3717CaCA29088A386eEb/BJaHlfi2PoMGN349sIZhim-U1_aa79sIacyZV4ON4As)
 - @sazhiv#2581 [setup guide(Russian)](https://medium.com/@alexzhurba/spinning-up-connext-router-fe3260912f0a)
 
-### Vedio
+### Video
 - @lazy2die#8203 [setup guide](https://drive.google.com/drive/folders/1y9a3QDr7z0wvxhiauOSePz9ThkspUdFG?usp=sharing)
 ### Github
 - @Siwat#7738 [config example](https://gist.github.com/KornSiwat/fc2e117d384a58e02ff836273a309373)
